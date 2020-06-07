@@ -1,0 +1,4 @@
+﻿  night.cpp
+  linux_original.cpp
+c:\users\user\documents\visual studio 2015\projects\project1\project1\linux_original.cpp(14): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql/mysql.h': No such file or directory
+  코드를 생성하고 있습니다...

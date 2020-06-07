@@ -1,0 +1,2 @@
+﻿  py.cpp
+c:\users\user\documents\visual studio 2015\projects\project1\project1\py.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'pylon/PylonIncludes.h': No such file or directory
